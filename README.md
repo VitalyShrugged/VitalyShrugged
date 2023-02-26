@@ -43,9 +43,7 @@
 </div>
 
 ---
-<div align="center">
-<a href="https://wakatime.com/@c519732b-c135-487c-9568-c743bfa69d03"><img src="https://wakatime.com/badge/user/c519732b-c135-487c-9568-c743bfa69d03.svg" alt="Total time coded since Feb 20 2023" /></a>
-</div>
+### :clock8: :clock12: :clock4: :clock8: :clock12: How much time do i spend studying:
 
 <!--START_SECTION:waka-->
 
@@ -63,3 +61,7 @@ JSON               2 mins          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="left">
+<a href="https://wakatime.com/@c519732b-c135-487c-9568-c743bfa69d03"><img src="https://wakatime.com/badge/user/c519732b-c135-487c-9568-c743bfa69d03.svg" alt="Total time coded since Feb 20 2023" /></a>
+</div>
