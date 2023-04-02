@@ -48,16 +48,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 31 March 2023
+From: 19 February 2023 - To: 01 April 2023
 
-Total Time: 243 hrs 55 mins
+Total Time: 250 hrs 29 mins
 
-Python                211 hrs         >>>>>>>>>>>>>>>>>>>>>>---   86.50 %
-Go                    4 hrs 38 mins   -------------------------   01.90 %
-INI                   4 hrs 6 mins    -------------------------   01.69 %
-YAML                  3 hrs 21 mins   -------------------------   01.38 %
-HTML                  3 hrs 1 min     -------------------------   01.24 %
-JavaScript            2 hrs 54 mins   -------------------------   01.19 %
+Python                211 hrs 7 mins  >>>>>>>>>>>>>>>>>>>>>----   84.28 %
+JavaScript            6 hrs 47 mins   >------------------------   02.71 %
+Go                    4 hrs 38 mins   -------------------------   01.85 %
+INI                   4 hrs 6 mins    -------------------------   01.64 %
+HTML                  3 hrs 46 mins   -------------------------   01.51 %
+YAML                  3 hrs 21 mins   -------------------------   01.34 %
 ```
 
 <!--END_SECTION:waka-->
