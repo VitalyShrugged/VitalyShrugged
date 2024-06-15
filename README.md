@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2023 - To: 13 June 2024
+From: 19 February 2023 - To: 14 June 2024
 
 Total Time: 2,304 hrs 49 mins
 
