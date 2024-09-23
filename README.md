@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" height="260" align="right" /> 
+<img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR1ejN2dXMyaWo2b3d5czM2enVrbDBnbnZ4am14bGlnYWlxOTY2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="350" height="260" align="right" /> 
 
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e66761font=Terminal+Dosis+Regular&lines&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20a%20Python%20developer)
 
