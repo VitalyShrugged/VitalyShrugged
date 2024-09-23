@@ -13,7 +13,7 @@
 ---
 ### :envelope: Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/vitaly-zhidovich/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vitaly-zhidovitch/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50" width="50" /></a>
 <a href="https://t.me/vitaly_shrugged" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="50" width="50" /></a>
 <a href="https://vk.com/universe_vitalika" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" height="50" width="50" /></a>
 <a href="https://www.instagram.com/small_digitaluns/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50" width="50" /></a>
