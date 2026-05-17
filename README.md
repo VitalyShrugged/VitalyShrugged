@@ -50,7 +50,7 @@
 ```txt
 From: 19 February 2023 - To: 16 May 2026
 
-Total Time: 2,458 hrs 28 mins
+Total Time: 2,458 hrs 30 mins
 
 Python                     2,317 hrs 9 mins      >>>>>>>>>>>>>>>>>>>>>>>>-   94.25 %
 JavaScript                 25 hrs 30 mins        -------------------------   01.04 %
