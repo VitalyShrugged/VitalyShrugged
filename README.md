@@ -22,6 +22,7 @@
 ### :male_detective: Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>&nbsp;
   <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>&nbsp;
