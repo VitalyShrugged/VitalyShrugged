@@ -27,6 +27,7 @@
   <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-plain.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="60" height="60"/>&nbsp;
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="60" height="60"/>&nbsp;
